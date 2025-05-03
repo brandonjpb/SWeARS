@@ -29,14 +29,3 @@ Commands
     6/save - Manually append to parts.bin
 
     7/exit - Save & quit
-
-FAQ
-
-Q: Where are unit tests?
-A: They are stored next to my hopes and dreams.
-
-Q: How to reset?
-A: Delete parts.bin. Poof, virgin database.
-
-Q: Why append mode?
-A: Because tracking duplicates is extra credit behavior.
