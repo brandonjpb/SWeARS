@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\CMakeFiles\a09a3883d67c0bb8b21986397155b7f6\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4176DA80-47DC-3D4B-9EC0-D7CA5CC625C1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

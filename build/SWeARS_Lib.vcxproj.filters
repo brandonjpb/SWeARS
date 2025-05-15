@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\src\menu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\src\partdb.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\src\save.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\src\weaponCreator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6DD6DAA9-2C5D-3AED-9A68-03DE2702C32A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\77f668d3f085814a0f76e700967d2f4d\googletest-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\a991b9f51639c551429e8148c6470a43\googletest-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\63746cfdc93e1041662d54266fceb1a5\googletest-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\brand\OneDrive\Desktop\Programs\CIS-25\SWeARS2.0\build\_deps\googletest-subbuild\CMakeFiles\googletest-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D32BD4A3-CABF-392E-9F90-85D8689DE7D4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

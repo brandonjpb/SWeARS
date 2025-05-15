@@ -1,0 +1,3 @@
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/ALL_BUILD.dir
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/ZERO_CHECK.dir

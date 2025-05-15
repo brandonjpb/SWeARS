@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/63746cfdc93e1041662d54266fceb1a5/googletest-populate.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/a991b9f51639c551429e8148c6470a43/googletest-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-subbuild/CMakeFiles/77f668d3f085814a0f76e700967d2f4d/googletest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"googletest-populate"
+		],
+		"name" : "googletest-populate"
+	}
+}

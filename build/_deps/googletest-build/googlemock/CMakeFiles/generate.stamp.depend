@@ -1,0 +1,10 @@
+# CMake generation dependency list for this directory.
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-src/googlemock/CMakeLists.txt
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-src/googlemock/cmake/gmock.pc.in
+C:/Users/brand/OneDrive/Desktop/Programs/CIS-25/SWeARS2.0/build/_deps/googletest-src/googlemock/cmake/gmock_main.pc.in
+C:/mingw64/mingw64/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake
+C:/mingw64/mingw64/share/cmake-3.31/Modules/CheckIncludeFile.cmake
+C:/mingw64/mingw64/share/cmake-3.31/Modules/CheckLibraryExists.cmake
+C:/mingw64/mingw64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake
+C:/mingw64/mingw64/share/cmake-3.31/Modules/FindPackageMessage.cmake
+C:/mingw64/mingw64/share/cmake-3.31/Modules/FindThreads.cmake
