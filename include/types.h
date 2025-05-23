@@ -3,7 +3,7 @@
 #include <map>
 #include <cstdint>
 
-std::string sanitizeWeaponNameToFilename(const std::string& weaponName);
+// std::string sanitizeWeaponNameToFilename(const std::string& weaponName);
 std::string trim(const std::string& str);
 
 enum class PartType { 
@@ -34,17 +34,37 @@ struct Part {
     uint32_t exclusionMask = 0;
 };
 
-struct Weapon {
+class Weapon {
+public:
+    Weapon(const std::string& name = "Unnamed Weapon");
+
+    void applyPart(const Part& part);
+    void setNote(const std::string& note);
+    void describe() const;
+
+    std::string getName() const;
+    std::string getNote() const;
+
+    int getDamageQuantity() const;
+    int getDamageQuality() const;
+    int getRangeMin() const;
+    int getRangeMax() const;
+    float getWeight() const;
+    float getValue() const;
+    uint32_t getCategory() const;
+
+private:
     std::string name;
     std::string noteOrFlavor;
-    uint32_t category = CATEGORY_NONE;  // Initialize with default
-    int damageQuantity = 1;             // Default to 1
-    int damageQuality = 6;              // Default to d6
-    int rangeMin = 0;                   // Default 0 range
-    int rangeMax = 100;                 // Default 100 range
-    float weight = 1.0f;                // Default 1.0 kg
-    float value = 100.0f;               // Default 100 currency
+    uint32_t category = CATEGORY_NONE;
+    int damageQuantity = 1;
+    int damageQuality = 6;
+    int rangeMin = 0;
+    int rangeMax = 100;
+    float weight = 1.0f;
+    float value = 100.0f;
 };
+
 
 extern std::map<std::string, PartType> partTypeMap;
 extern std::map<std::string, Category> categoryMap;

@@ -212,13 +212,12 @@ void handleMenuOption(MenuOption option) {
         std::string weaponName;
         std::getline(std::cin, weaponName);
 
-        Weapon* newWeapon = handleCreateWeapon(weaponName, partDB);
+        auto newWeapon = handleCreateWeapon(weaponName, partDB);
         if (newWeapon) {
-            std::cout << "Successfully created weapon: " << newWeapon->name << "\n";
+            std::cout << "Successfully created weapon: " << newWeapon->getName() << "\n";
             if (promptSaveWeapon(*newWeapon)) {
                 std::cout << "Weapon saved!\n";
             }
-            delete newWeapon;  // Clean up
         }
         else {
             std::cout << "Failed to create weapon (missing parts?)\n";
